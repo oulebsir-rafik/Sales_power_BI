@@ -1,6 +1,4 @@
- <h1 style = "display:inline"> 📊 Sales Power BI dashboard </h1>
-
----
+# 📊 Sales Power BI dashboards
 
 <img src="./img/sales_dashboard.gif" alt = "gif of the dashboard" align="left">
 
